@@ -25,9 +25,8 @@
 	var year = releaseDate.getFullYear();
 	var command = 'pthcamp "' + artist + '" "' + title + '" ' + year + ' ';
 	var linkElement;
-	var MutationObserver;
 
-	new MutationObserver(function (mutations) {
+	new MutationObserver(function (mutations) { // eslint-disable-line no-undef
 		mutations.some(function (mutation) {
 			if (mutation.type === 'attributes' && mutation.attributeName === 'href') {
 				var downloadLink = mutation.target.href;
