@@ -5,7 +5,8 @@
 // @description  Generate pthcamp command and copy to clipboard
 // @author       SavageCore
 
-// @include    http*://bandcamp.com/download?from=collection*
+// @include    https://bandcamp.com/download?from=collection*
+// @include    http*://bandcamp.com/download?id*
 
 // @downloadURL	 https://github.com/SavageCore/pthcamp-link-creator/raw/master/src/pthcamp-link-creator.user.js
 // @grant        GM_setClipboard
