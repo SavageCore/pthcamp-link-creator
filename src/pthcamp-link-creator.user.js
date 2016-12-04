@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PTH pthcamp Link Creator
 // @namespace    http://savagecore.eu/
-// @version      0.1.2
+// @version      0.1.3
 // @description  Generate pthcamp command and copy to clipboard
 // @author       SavageCore
 
