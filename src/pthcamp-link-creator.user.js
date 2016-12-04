@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         passtheheadphones.me - pthcamp Link Creator
+// @name         PTH pthcamp Link Creator
 // @namespace    http://savagecore.eu/
 // @version      0.1.2
 // @description  Generate pthcamp command and copy to clipboard
